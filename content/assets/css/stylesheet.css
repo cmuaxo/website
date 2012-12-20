@@ -23,8 +23,12 @@ a {
 	border-left: 0.2em solid #9D3D48;
 }
 
+#head {
+}
+
 #logo img {
-	max-width: 100%;
+	width: 23.75%;
+	margin-left: 8.25%;
 }
 
 #nav {
@@ -52,6 +56,7 @@ a {
 #page-wrapper {
 	width: 60.75%;
 	display: inline-block;
+	margin-left: 0;
 }
 
 #main-content {
