@@ -1,0 +1,55 @@
+body {
+	background-color: rgba(199, 74, 93, 0.82);
+}
+
+a {
+	text-decoration: none;
+	color: 'blue';
+}
+
+#page-header, #main-content {
+	background-color: #fefefe;
+	font-family: 'Minion Pro';
+}
+
+#page-header {
+	width: 24%;
+	display: inline-block;
+	margin-left: 8%;
+	float: left;
+	padding: 1%;
+	border-right: 1.5em solid #9FA374;
+}
+
+#logo img {
+	max-width: 100%;
+}
+
+#nav {
+	padding: 0 7%;
+}
+
+#nav li {
+	border-bottom: 1px solid #ddd;
+	text-align: right;
+	padding: 0.33em;
+}
+
+#nav li:hover {
+	background-color: #ddd;
+}
+
+#nav li a {
+	font-family: 'Brighton Medium', sans-serif;
+	font-size: 1.25em;
+}
+
+#page-wrapper {
+	width: 60.75%;
+	display: inline-block;
+}
+
+#main-content {
+	padding: 8em 17% 1em 10%;
+	margin: 0 2% 0 0;
+}

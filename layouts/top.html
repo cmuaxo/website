@@ -1,0 +1,23 @@
+  <body>
+  	<a href="#main" id="skip-nav">Skip Navigation</a>
+  	<div id="page-header">
+		<a href="#" id="logo"><img src="/assets/images/logo.jpg" alt="Alpha Chi Omega Logo" id="logo-img"/></a>
+		<% nav_items = ["home", "sisterhood", "members", "the house", "philanthropy", "academics", "traditions & history", "campus involvement"] %>
+		<div id="nav">
+			<ul>
+			<% for item in nav_items %>
+				<% 
+				itemhref = ''
+				unless (item == "home")
+					itemhref = item + '/'
+				end
+				capitalized_item = item.split(" ").each{|word| word.capitalize!}.join(" ");
+				%>
+				<li><a href="/<%= itemhref.gsub(/ /,'-') %>"><%= capitalized_item %></a></li>
+			<% end %>
+		</ul>
+		</div>
+	</div>
+	<a name="main"></a>
+	<div id="page-wrapper">
+		<div id='main-content'>
