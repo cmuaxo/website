@@ -1,5 +1,6 @@
 body {
-	background-color: rgba(199, 74, 93, 0.82);
+	background-color: rgb(199, 74, 93);
+	background-image: url('../images/pattern.png');
 }
 
 a {
@@ -9,7 +10,7 @@ a {
 
 #page-header, #main-content {
 	background-color: #fefefe;
-	font-family: 'Minion Pro';
+	font-family: 'Minion Pro','Crimson Text', serif;
 }
 
 #page-header {
@@ -18,7 +19,8 @@ a {
 	margin-left: 8%;
 	float: left;
 	padding: 1%;
-	border-right: 1.5em solid #9FA374;
+	border-right: .1em solid #ddd;
+	border-left: 0.2em solid #9D3D48;
 }
 
 #logo img {
@@ -30,7 +32,7 @@ a {
 }
 
 #nav li {
-	border-bottom: 1px solid #ddd;
+	border-bottom: 1px dotted #ccc;
 	text-align: right;
 	padding: 0.33em;
 }
@@ -40,8 +42,11 @@ a {
 }
 
 #nav li a {
-	font-family: 'Brighton Medium', sans-serif;
-	font-size: 1.25em;
+	font-family: 'Lato', sans-serif;
+	font-size: 1em;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	word-spacing: 0.25em;
 }
 
 #page-wrapper {
@@ -52,4 +57,10 @@ a {
 #main-content {
 	padding: 8em 17% 1em 10%;
 	margin: 0 2% 0 0;
+	background-image: url('../images/cream_dust.png');
+	border-right: 0.2em solid #9D3D48;
+}
+
+h1, h2, h3 {
+	font-family: 'Lato', sans-serif;
 }
