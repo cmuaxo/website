@@ -8,27 +8,32 @@ a {
 	color: 'blue';
 }
 
-#page-header, #main-content {
-	background-color: #fefefe;
+#page-wrapper {
+	width: 91%;
+	margin: 0 auto;
+	background-image: url('../images/cream_dust.png');
+	border-radius: 1.55em;
+	box-shadow: 0px 0px 10px 2px rgba(80, 80, 80, 0.2);
+}
+
+#main-content {
 	font-family: 'Minion Pro','Crimson Text', serif;
 }
 
 #page-header {
-	width: 24%;
+	width: 26%;
 	display: inline-block;
-	margin-left: 8%;
 	float: left;
 	padding: 1%;
-	border-right: .1em solid #ddd;
-	border-left: 0.2em solid #9D3D48;
 }
 
 #head {
+    padding: 1em 0;
 }
 
 #logo img {
 	width: 23.75%;
-	margin-left: 8.25%;
+	margin-left: 1.25%;
 }
 
 #nav {
@@ -53,17 +58,22 @@ a {
 	word-spacing: 0.25em;
 }
 
-#page-wrapper {
-	width: 60.75%;
+#content-wrapper {
+	width: 73.9%;
 	display: inline-block;
 	margin-left: 0;
+	margin-right: 0;
+	border-left: .1em solid #DDD;
+	background-color: #FEFEFE;
+	border-top-right-radius: 1.55em;
+	border-bottom-right-radius: 1.55em;
 }
 
 #main-content {
 	padding: 8em 17% 1em 10%;
-	margin: 0 2% 0 0;
-	background-image: url('../images/cream_dust.png');
-	border-right: 0.2em solid #9D3D48;
+}
+
+#main-content, #page-header {
 }
 
 h1, h2, h3 {

@@ -1,8 +1,13 @@
-Crashlog created at 2012-12-19 19:19:43 -0500
+Crashlog created at 2012-12-20 17:42:47 -0700
 
 === MESSAGE:
 
-NoMethodError: undefined method `render' for #<Nanoc::Context:0x007ff99a99da68>
+SyntaxError: layout /top/:7: syntax error, unexpected ',', expecting ']'
+...me", "sisterhood", "members", , "philanthropy", "academics",...
+...                               ^
+layout /top/:7: syntax error, unexpected ',', expecting $end
+...", "members", , "philanthropy", "academics", "campus involve...
+...                               ^
 
 === COMPILATION STACK:
 
@@ -10,44 +15,48 @@ NoMethodError: undefined method `render' for #<Nanoc::Context:0x007ff99a99da68>
 
 === BACKTRACE:
 
-  0. layout /default/:1:in `get_binding'
-  1. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/1.9.1/erb.rb:838:in `eval'
-  2. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/1.9.1/erb.rb:838:in `result'
-  3. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/filters/erb.rb:34:in `run'
-  4. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/result_data/item_rep.rb:413:in `layout'
-  5. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/item_rep_proxy.rb:69:in `layout'
-  6. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/rule_context.rb:67:in `layout'
-  7. ./Rules:37:in `block in load'
-  8. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/rule.rb:68:in `instance_eval'
-  9. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/rule.rb:68:in `apply_to'
-  10. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:381:in `compile_rep'
-  11. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:337:in `block in compile_reps'
-  12. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:330:in `loop'
-  13. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:330:in `compile_reps'
-  14. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:85:in `run'
-  15. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/source_data/site.rb:58:in `compile'
-  16. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/commands/compile.rb:62:in `run'
-  17. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/command_runner.rb:14:in `block in call'
-  18. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/error_handler.rb:63:in `handle_while'
-  19. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
-  20. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/command_runner.rb:13:in `call'
-  21. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command_dsl.rb:185:in `block in runner'
-  22. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:296:in `call'
-  23. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:296:in `run_this'
-  24. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:249:in `run'
-  25. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/commands/nanoc.rb:39:in `block in define'
+  0. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/1.9.1/erb.rb:838:in `eval'
+  1. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/1.9.1/erb.rb:838:in `result'
+  2. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/filters/erb.rb:34:in `run'
+  3. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/helpers/rendering.rb:120:in `render'
+  4. layout /default/:2:in `get_binding'
+  5. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/1.9.1/erb.rb:838:in `eval'
+  6. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/1.9.1/erb.rb:838:in `result'
+  7. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/filters/erb.rb:34:in `run'
+  8. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/result_data/item_rep.rb:413:in `layout'
+  9. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/item_rep_proxy.rb:69:in `layout'
+  10. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/rule_context.rb:67:in `layout'
+  11. ./Rules:37:in `block in load'
+  12. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/rule.rb:68:in `instance_eval'
+  13. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/rule.rb:68:in `apply_to'
+  14. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:381:in `compile_rep'
+  15. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:337:in `block in compile_reps'
+  16. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:330:in `loop'
+  17. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:330:in `compile_reps'
+  18. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:85:in `run'
+  19. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/source_data/site.rb:58:in `compile'
+  20. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/commands/compile.rb:62:in `run'
+  21. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/command_runner.rb:14:in `block in call'
+  22. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/error_handler.rb:63:in `handle_while'
+  23. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
+  24. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/command_runner.rb:13:in `call'
+  25. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command_dsl.rb:185:in `block in runner'
   26. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:296:in `call'
   27. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:296:in `run_this'
   28. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:249:in `run'
-  29. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli.rb:52:in `block in run'
-  30. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/error_handler.rb:63:in `handle_while'
-  31. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
-  32. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli.rb:50:in `run'
-  33. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/bin/nanoc:19:in `<top (required)>'
-  34. /Users/julia/.rvm/gems/ruby-1.9.3-p327/bin/nanoc:19:in `load'
-  35. /Users/julia/.rvm/gems/ruby-1.9.3-p327/bin/nanoc:19:in `<main>'
-  36. /Users/julia/.rvm/gems/ruby-1.9.3-p327/bin/ruby_noexec_wrapper:14:in `eval'
-  37. /Users/julia/.rvm/gems/ruby-1.9.3-p327/bin/ruby_noexec_wrapper:14:in `<main>'
+  29. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/commands/nanoc.rb:39:in `block in define'
+  30. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:296:in `call'
+  31. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:296:in `run_this'
+  32. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:249:in `run'
+  33. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli.rb:52:in `block in run'
+  34. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/error_handler.rb:63:in `handle_while'
+  35. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
+  36. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli.rb:50:in `run'
+  37. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/bin/nanoc:19:in `<top (required)>'
+  38. /Users/julia/.rvm/gems/ruby-1.9.3-p327/bin/nanoc:19:in `load'
+  39. /Users/julia/.rvm/gems/ruby-1.9.3-p327/bin/nanoc:19:in `<main>'
+  40. /Users/julia/.rvm/gems/ruby-1.9.3-p327/bin/ruby_noexec_wrapper:14:in `eval'
+  41. /Users/julia/.rvm/gems/ruby-1.9.3-p327/bin/ruby_noexec_wrapper:14:in `<main>'
 
 === VERSION INFORMATION:
 
@@ -184,8 +193,8 @@ Darwin Julias-MacBook-Air.local 12.2.1 Darwin Kernel Version 12.2.1: Thu Oct 18 
 
 === ENVIRONMENT:
 
-Apple_PubSub_Socket_Render => "/tmp/launch-QVHGr6/Render"
-Apple_Ubiquity_Message => "/tmp/launch-rZbTl3/Apple_Ubiquity_Message"
+Apple_PubSub_Socket_Render => "/tmp/launch-NwpdMJ/Render"
+Apple_Ubiquity_Message => "/tmp/launch-PQDTS8/Apple_Ubiquity_Message"
 COMMAND_MODE => "unix2003"
 GEM_HOME => "/Users/julia/.rvm/gems/ruby-1.9.3-p327"
 GEM_PATH => "/Users/julia/.rvm/gems/ruby-1.9.3-p327:/Users/julia/.rvm/gems/ruby-1.9.3-p327@global"
@@ -196,15 +205,15 @@ LOGNAME => "julia"
 MY_RUBY_HOME => "/Users/julia/.rvm/rubies/ruby-1.9.3-p327"
 OLDPWD => "/Users/julia"
 PATH => "/usr/local/heroku/bin:/usr/local/bin:/Users/julia/.rvm/gems/ruby-1.9.3-p327/bin:/Users/julia/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/julia/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/julia/.rvm/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/julia/.rvm/bin"
-PWD => "/Users/julia/Documents/axo"
+PWD => "/Users/julia/Dropbox/Public/axo"
 RUBY_VERSION => "ruby-1.9.3-p327"
 SHELL => "/bin/zsh"
 SHLVL => "1"
-SSH_AUTH_SOCK => "/tmp/launch-TtomeL/Listeners"
+SSH_AUTH_SOCK => "/tmp/launch-qa2Ogx/Listeners"
 TERM => "xterm-256color"
 TERM_PROGRAM => "Apple_Terminal"
 TERM_PROGRAM_VERSION => "309"
-TERM_SESSION_ID => "1ED47D62-284B-4F44-A84E-40C612652E58"
+TERM_SESSION_ID => "4213B3FE-2D38-4F39-86C8-CA9C781EDC79"
 TMPDIR => "/var/folders/_v/vm265dk54g3cz6t318tvss6r0000gn/T/"
 USER => "julia"
 _ => "/Users/julia/.rvm/gems/ruby-1.9.3-p327/bin/nanoc"
