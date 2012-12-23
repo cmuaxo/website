@@ -2,12 +2,16 @@
 title: Joining AX&#937;
 ---
 
+[Old Page for Referece](http://www.andrew.cmu.edu/user/alphachi/recruitment.html)
+
 # Joining AX&#937;
 
-Hi there! We're so glad that you are thinking about joining Alpha Chi Omega's sisterhood! There are two ways that new members join AX&#937;: FMR and COB/IMR. Keep reading below to find out what those (mysterious) acronyms mean!
+Hi there! We're glad that you are thinking about joining Alpha Chi Omega! There are two ways that new members join AX&#937;: FMR and COB/IMR. Keep reading below to find out what those (ever so mysterious) acronyms mean!
 
 
 ## FMR, <s>Freshmen Making Rounds</s>
+
+![Group photo of people dressed up for FMR.](/assets/images/joining-axo/fmr-group-photo.png)
 
 FMR (actually) stands for Formal Membership Recruitment. Formal Membership Recruitment is when women who are interested in going Greek visit each sorority house on campus. FMR is a 'structured mutual selection process' run by the National Panhellenic Conference. In human-speak, this means that FMR has a set timeline and rules. 
 
@@ -18,6 +22,8 @@ Every night during FMR, you visit fewer houses. Which houses you go back to depe
 
 ## COB/IMR, <s>Come On By/It's More Relaxed</s>
 
+![Sisters painting things at a fun event.](/assets/images/joining-axo/painting-people.jpg)
+
 COB/IMR are two different acronyms for the same thing. COB stands for "Continuous Open Bidding" and IMR stands for "Infomal Membership Recruitment". Basically, when chapters haven't reached the total number of members they are allowed to have after FMR ends, they can invite other women to join their chapter (giving out 'bids') later in the Fall and Spring semesters.
 
-At Alpha Chi Omega, informal recruitment usually looks something like this... Current sisters suggest women they know who they think could be a great fit for AX&#937;. Then we invite those women to informal events so that they can meet more sisters. If we think AX&#937; is a good fit for both the woman and the chapter, we offer them a bid (inviting them to join).
+At Alpha Chi Omega, informal recruitment usually looks something like this. Current sisters suggest women they know who they think could be a great fit for AX&#937;. Then we invite those women to informal events so that they can meet more sisters. If we think AX&#937; is a good fit for both the woman and the chapter, we offer them a bid (inviting them to join).

@@ -1,5 +1,9 @@
 ---
-title: A New Item
+title: The House
 ---
 
-Hi, I'm a new item!
+# Our House, Our Home ("d'awwww")
+
+## Rooms and Shared Space
+
+## Meal Plan

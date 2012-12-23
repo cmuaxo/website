@@ -79,3 +79,7 @@ a {
 h1, h2, h3 {
 	font-family: 'Lato', sans-serif;
 }
+
+#main img {
+    max-width: 100%;
+}
