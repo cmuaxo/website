@@ -1,6 +1,7 @@
 body {
 	background-color: rgb(199, 74, 93);
 	background-image: url('../images/pattern.png');
+	background-attachment: fixed;
 }
 
 a {
