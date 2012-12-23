@@ -5,18 +5,27 @@
   	</div>
   	<div id="page-wrapper">
 	  	<div id="page-header">
-			<% nav_items = ["home", "sisterhood", "members", "philanthropy", "academics", "campus involvement", "traditions & history", "the house", "joining AX&#937;"] %>
+			<% nav_items = {"home" => '/',
+							"sisterhood" => '', 
+							"members" => '', 
+							"philanthropy" => '', 
+							"academics" => '', 
+							"campus involvement" => '', 
+							"traditions & history" => '', 
+							"the house" => '', 
+							"joining AX&#937;" => 'joining-axo'} %>
 			<div id="nav">
 				<ul>
-				<% for item in nav_items %>
+				<% nav_items.each do |item_name, item_url| %>
 					<% 
-					itemhref = ''
-					unless (item == "home")
-						itemhref = item + '/'
+					if item_url == ''
+						item_href = item_name.gsub('&', 'and').gsub(/ /,'-')
+					else
+						item_href = item_url
 					end
-					capitalized_item = item.split(" ").each{|word| word.capitalize!}.join(" ");
+					capitalized_item = item_name.split(" ").each{|word| word.capitalize!}.join(" ");
 					%>
-					<li><a href="/<%= itemhref.gsub(/ /,'-') %>"><%= capitalized_item %></a></li>
+					<li><a href="/<%= item_href %>/"><%= capitalized_item %></a></li>
 				<% end %>
 			</ul>
 			</div>
