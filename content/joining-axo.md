@@ -2,7 +2,7 @@
 title: Joining AX&#937;
 ---
 
-[Old Page for Referece](http://www.andrew.cmu.edu/user/alphachi/recruitment.html)
+**[Old Page for Reference](http://www.andrew.cmu.edu/user/alphachi/recruitment.html)**
 
 # Joining AX&#937;
 
