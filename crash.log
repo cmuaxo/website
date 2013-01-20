@@ -1,263 +1,319 @@
-Crashlog created at 2012-12-20 17:42:47 -0700
+Crashlog created at 2013-01-20 16:08:54 -0500
 
 === MESSAGE:
 
-SyntaxError: layout /top/:7: syntax error, unexpected ',', expecting ']'
-...me", "sisterhood", "members", , "philanthropy", "academics",...
-...                               ^
-layout /top/:7: syntax error, unexpected ',', expecting $end
-...", "members", , "philanthropy", "academics", "campus involve...
-...                               ^
+RuntimeError: Found 4 content files for content/assets/css/font/webfonts; expected 0 or 1
 
 === COMPILATION STACK:
 
-  - [item]   / (rep default)
+  (empty)
 
 === BACKTRACE:
 
-  0. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/1.9.1/erb.rb:838:in `eval'
-  1. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/1.9.1/erb.rb:838:in `result'
-  2. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/filters/erb.rb:34:in `run'
-  3. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/helpers/rendering.rb:120:in `render'
-  4. layout /default/:2:in `get_binding'
-  5. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/1.9.1/erb.rb:838:in `eval'
-  6. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/1.9.1/erb.rb:838:in `result'
-  7. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/filters/erb.rb:34:in `run'
-  8. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/result_data/item_rep.rb:413:in `layout'
-  9. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/item_rep_proxy.rb:69:in `layout'
-  10. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/rule_context.rb:67:in `layout'
-  11. ./Rules:37:in `block in load'
-  12. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/rule.rb:68:in `instance_eval'
-  13. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/rule.rb:68:in `apply_to'
-  14. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:381:in `compile_rep'
-  15. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:337:in `block in compile_reps'
-  16. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:330:in `loop'
-  17. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:330:in `compile_reps'
-  18. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/compilation/compiler.rb:85:in `run'
-  19. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/base/source_data/site.rb:58:in `compile'
-  20. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/commands/compile.rb:62:in `run'
-  21. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/command_runner.rb:14:in `block in call'
-  22. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/error_handler.rb:63:in `handle_while'
-  23. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
-  24. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/command_runner.rb:13:in `call'
-  25. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command_dsl.rb:185:in `block in runner'
-  26. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:296:in `call'
-  27. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:296:in `run_this'
-  28. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:249:in `run'
-  29. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/commands/nanoc.rb:39:in `block in define'
-  30. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:296:in `call'
-  31. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:296:in `run_this'
-  32. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib/cri/command.rb:249:in `run'
-  33. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli.rb:52:in `block in run'
-  34. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/error_handler.rb:63:in `handle_while'
-  35. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
-  36. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib/nanoc/cli.rb:50:in `run'
-  37. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/bin/nanoc:19:in `<top (required)>'
-  38. /Users/julia/.rvm/gems/ruby-1.9.3-p327/bin/nanoc:19:in `load'
-  39. /Users/julia/.rvm/gems/ruby-1.9.3-p327/bin/nanoc:19:in `<main>'
-  40. /Users/julia/.rvm/gems/ruby-1.9.3-p327/bin/ruby_noexec_wrapper:14:in `eval'
-  41. /Users/julia/.rvm/gems/ruby-1.9.3-p327/bin/ruby_noexec_wrapper:14:in `<main>'
+  0. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/data_sources/filesystem.rb:164:in `block in all_split_files_in'
+  1. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/data_sources/filesystem.rb:154:in `each_pair'
+  2. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/data_sources/filesystem.rb:154:in `all_split_files_in'
+  3. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/data_sources/filesystem.rb:78:in `load_objects'
+  4. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/data_sources/filesystem.rb:37:in `items'
+  5. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/source_data/site.rb:314:in `block in load_items'
+  6. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/source_data/site.rb:313:in `each'
+  7. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/source_data/site.rb:313:in `load_items'
+  8. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/source_data/site.rb:247:in `load'
+  9. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/source_data/site.rb:127:in `layouts'
+  10. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/compilation/compiler.rb:186:in `dependency_tracker'
+  11. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/memoization.rb:56:in `block in memoize'
+  12. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/compilation/compiler.rb:455:in `stores'
+  13. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/compilation/compiler.rb:145:in `unload'
+  14. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/source_data/site.rb:278:in `unload'
+  15. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/source_data/site.rb:258:in `rescue in load'
+  16. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/source_data/site.rb:262:in `load'
+  17. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/compilation/compiler.rb:116:in `load'
+  18. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/compilation/compiler.rb:82:in `run'
+  19. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/base/source_data/site.rb:58:in `compile'
+  20. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/cli/commands/compile.rb:62:in `run'
+  21. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/cli/command_runner.rb:14:in `block in call'
+  22. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/cli/error_handler.rb:63:in `handle_while'
+  23. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
+  24. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/cli/command_runner.rb:13:in `call'
+  25. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/cri-2.3.0/lib/cri/command_dsl.rb:185:in `block in runner'
+  26. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/cri-2.3.0/lib/cri/command.rb:296:in `call'
+  27. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/cri-2.3.0/lib/cri/command.rb:296:in `run_this'
+  28. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/cri-2.3.0/lib/cri/command.rb:249:in `run'
+  29. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/cli/commands/nanoc.rb:39:in `block in define'
+  30. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/cri-2.3.0/lib/cri/command.rb:296:in `call'
+  31. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/cri-2.3.0/lib/cri/command.rb:296:in `run_this'
+  32. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/cri-2.3.0/lib/cri/command.rb:249:in `run'
+  33. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/cli.rb:52:in `block in run'
+  34. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/cli/error_handler.rb:63:in `handle_while'
+  35. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
+  36. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib/nanoc/cli.rb:50:in `run'
+  37. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/bin/nanoc:19:in `<top (required)>'
+  38. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/bin/nanoc:19:in `load'
+  39. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/bin/nanoc:19:in `<main>'
 
 === VERSION INFORMATION:
 
-nanoc 3.4.2 © 2007-2012 Denis Defreyne.
-Running ruby 1.9.3 (2012-11-10) on x86_64-darwin12.0.0 with RubyGems 1.8.24.
+nanoc 3.4.3 © 2007-2012 Denis Defreyne.
+Running ruby 1.9.3 (2012-02-16) on x86_64-darwin10.8.0 with RubyGems 1.8.21.
 
 === SYSTEM INFORMATION:
 
-Darwin Julias-MacBook-Air.local 12.2.1 Darwin Kernel Version 12.2.1: Thu Oct 18 16:32:48 PDT 2012; root:xnu-2050.20.9~2/RELEASE_X86_64 x86_64
+Darwin ETL-Air.local 10.8.0 Darwin Kernel Version 10.8.0: Tue Jun  7 16:33:36 PDT 2011; root:xnu-1504.15.3~1/RELEASE_I386 i386
 
 === INSTALLED GEMS:
 
-  actionmailer 3.2.1, 3.2.3, 3.2.9
-  actionpack 3.2.1, 3.2.3, 3.2.9
-  activemodel 3.2.1, 3.2.3, 3.2.9
-  activerecord 3.2.1, 3.2.3, 3.2.9
-  activeresource 3.2.1, 3.2.3, 3.2.9
-  activesupport 3.2.1, 3.2.3, 3.2.9
+  actionmailer 3.2.1, 3.2.2, 3.2.3, 3.2.8, 3.2.9
+  actionpack 3.2.1, 3.2.2, 3.2.3, 3.2.8, 3.2.9
+  activemodel 3.2.1, 3.2.2, 3.2.3, 3.2.8, 3.2.9
+  activerecord 3.2.1, 3.2.2, 3.2.3, 3.2.8, 3.2.9
+  activerecord-import 0.2.9
+  activeresource 3.2.1, 3.2.2, 3.2.3, 3.2.8, 3.2.9
+  activesupport 3.2.1, 3.2.2, 3.2.3, 3.2.8, 3.2.9
   addressable 2.2.7, 2.3.2
   adsf 1.1.1
+  ancestry 1.2.5
   arel 3.0.2
-  awesome_print 1.0.2
+  attr_encrypted 1.2.1
+  awesome_print 1.1.0
   bcrypt-ruby 3.0.1
-  builder 3.0.0, 3.0.4
-  bundler 1.2.3
+  bootstrap_forms 1.0.5, 2.0.0, 2.0.3, 2.0.6, 2.0.7, 2.0.8
+  bson 1.7.0, 1.8.0
+  bson_ext 1.7.0, 1.8.0
+  builder 3.0.0, 3.0.3, 3.0.4
+  bullet 2.3.1
+  bundler 1.1.3, 1.2.0.rc.2
   cancan 1.6.7, 1.6.8
-  capybara 1.1.2
+  capybara 1.1.2, 2.0.1
   carrierwave 0.6.2
-  childprocess 0.3.1, 0.3.5
-  choice 0.1.6
-  chronic 0.6.7, 0.7.0
+  celluloid 0.12.3
+  charlock_holmes 0.6.9
+  childprocess 0.3.1, 0.3.2, 0.3.5, 0.3.6
+  chronic 0.6.7, 0.8.0
+  coderay 1.0.8
   coffee-rails 3.2.2
   coffee-script 2.2.0
-  coffee-script-source 1.3.1, 1.3.3
+  coffee-script-source 1.2.0, 1.3.1, 1.3.3, 1.4.0
   colored 1.2
-  commonjs 0.2.6
+  commonjs 0.2.5
+  connection_pool 0.9.2
+  cookiejar 0.3.0
+  crack 0.3.1
   cri 2.3.0
-  cucumber 1.1.9, 1.2.1
+  cucumber 1.1.9
   cucumber-rails 1.3.0
-  daemons 1.1.9
-  database_cleaner 0.7.2, 0.8.0
-  devise 2.1.2
+  daemons 1.1.8, 1.1.9
+  delayed_job 3.0.2, 3.0.3
+  delayed_job_active_record 0.3.2
+  delayed_job_mongoid 2.0.0
   diff-lcs 1.1.3
-  email_spec 1.2.1
+  eco 1.0.0
+  eco-source 1.1.0.rc.1
+  em-http-request 0.3.0, 1.0.2
+  em-socksify 0.2.0
+  encryptor 1.1.3
   erubis 2.7.0
-  eventmachine 1.0.0
-  excon 0.16.10
-  execjs 1.3.0, 1.4.0
-  factory_girl 3.1.0, 4.0.0
-  factory_girl_rails 3.1.0, 4.0.0
-  faker 1.0.1
-  ffi 1.0.11, 1.1.5
-  foreman 0.60.2
+  escape 0.0.4
+  escape_utils 0.2.4
+  eventmachine 0.12.10, 1.0.0.beta.4
+  excon 0.16.4, 0.16.10
+  execjs 1.3.0, 1.3.1, 1.4.0
+  facter 1.6.15, 1.6.16
+  factory_girl 3.0.0, 3.1.0, 3.1.1, 3.2.0, 4.1.0
+  factory_girl_rails 3.0.0, 3.1.0, 3.2.0, 4.1.0
+  faker 1.0.1, 1.1.2
+  fancybox2-rails 0.2.1
+  fattr 2.2.1
+  faye 0.8.2
+  faye-websocket 0.4.5
+  ffi 1.0.11, 1.1.5, 1.2.0
+  foreman 0.41.0, 0.43.0, 0.44.0, 0.45.0, 0.60.0, 0.60.2
+  friendly_id 4.0.4, 4.0.5
+  fuubar 1.1.0
   geokit 1.6.5
-  gherkin 2.9.3, 2.11.1
-  gmaps4rails 1.4.8
-  google-webfonts 0.1.2
-  heroku-api 0.3.7
+  gherkin 2.9.3
+  github-linguist 2.3.4
+  github-markdown 0.5.3
+  growl 1.0.3
+  guard 1.0.1, 1.5.4
+  guard-bundler 0.1.3
+  guard-rspec 0.7.0, 2.2.2, 2.3.0
+  guard-spork 0.7.1, 1.3.0, 1.4.0
+  haml 3.1.4, 3.1.7
+  hashr 0.0.21, 0.0.22
+  heroku 2.32.4, 2.33.2
+  heroku-api 0.3.5, 0.3.7
+  highline 1.6.11
   hike 1.2.1
   hirb 0.6.2, 0.7.0
+  http_parser.rb 0.5.3
   i18n 0.6.0, 0.6.1
   journey 1.0.3, 1.0.4
-  jquery-rails 2.0.2
-  jquery-ui-rails 0.4.0, 1.1.0
-  json 1.6.6, 1.7.4, 1.7.5
-  json_pure 1.7.4
+  jquery-rails 2.0.2, 2.1.3, 2.1.4
+  js-routes 0.8.0, 0.8.4
+  json 1.6.6, 1.7.0, 1.7.5
+  kaminari 0.13.0, 0.14.0, 0.14.1
   kramdown 0.14.1
   launchy 2.1.0, 2.1.2
-  less 2.2.1
-  less-rails 2.2.2, 2.2.3
-  libv8 3.11.8.4
-  libwebsocket 0.1.5
+  less 2.1.0
+  less-rails 2.2.1
+  libv8 3.3.10.4
+  libwebsocket 0.1.3, 0.1.5, 0.1.6.1, 0.1.7.1
+  listen 0.6.0
+  lumberjack 1.0.2
+  magiconf 0.1.2
   mail 2.4.4
   metaclass 0.0.1
+  method_source 0.8.1
   mime-types 1.18, 1.19
-  minitest 2.11.4
-  mocha 0.10.5, 0.12.3
-  multi_json 1.2.0, 1.3.6, 1.4.0
-  nanoc 3.4.2
+  mocha 0.10.5
+  mongoid 3.0.6, 3.0.14
+  mongoid-ancestry 0.3.0
+  mongoid-rspec 1.5.4, 1.5.5
+  moped 1.2.5, 1.3.0, 1.3.1
+  multi_json 1.2.0, 1.3.1, 1.3.2, 1.3.4, 1.3.6, 1.3.7, 1.4.0
+  mysql2 0.3.11
+  nanoc 3.4.3
+  naturalsort 1.1.1
   netrc 0.7.7
   nifty-generators 0.4.6
   nokogiri 1.5.2, 1.5.5
-  on_the_spot 1.0.1
-  orm_adapter 0.4.0
-  pg 0.14.0, 0.14.1
+  oj 1.4.5
+  options 2.3.0
+  origin 1.0.9, 1.0.11
   polyglot 0.3.3
   populator3 0.2.7
+  posix-spawn 0.3.6
+  pr_geohash 1.0.0
+  private_pub 1.0.1
+  progress_bar 0.4.0
+  pry 0.9.10
+  puma 1.6.3
+  pusher 0.9.4, 0.11.1
+  pygments.rb 0.3.2
+  quiet_assets 1.0.1
+  rabl 0.7.9
   rack 1.4.1
   rack-cache 1.2
+  rack-protection 1.2.0
   rack-ssl 1.3.2
   rack-test 0.6.1, 0.6.2
-  rails 3.2.1, 3.2.3, 3.2.9
-  rails-erd 1.0.0
-  railties 3.2.1, 3.2.3, 3.2.9
-  rake 0.9.2.2, 10.0.2
+  rails 3.2.1, 3.2.2, 3.2.3, 3.2.8, 3.2.9
+  rails-erd 0.4.5
+  railties 3.2.1, 3.2.2, 3.2.3, 3.2.8, 3.2.9
+  rake 0.9.2, 0.9.2.2, 10.0.2
+  rb-fsevent 0.9.2
   rdoc 3.12
-  ref 1.0.0, 1.0.2
+  redcarpet 2.1.1, 2.2.2
+  redis 3.0.2
+  redis-namespace 1.2.1
   rest-client 1.6.7
-  rspec 2.9.0, 2.11.0
-  rspec-core 2.9.0, 2.11.1
-  rspec-expectations 2.9.1, 2.11.2
-  rspec-mocks 2.9.0, 2.11.1
-  ruby-graphviz 1.0.8
-  rubygems-bundler 1.1.0
-  rubyzip 0.9.7, 0.9.9
-  rvm 1.11.3.5
-  sass 3.1.15, 3.1.20
+  rinku 1.7.2
+  rsolr 1.0.8
+  rspec 2.9.0, 2.11.0, 2.12.0
+  rspec-core 2.9.0, 2.11.1, 2.12.0, 2.12.1
+  rspec-expectations 2.9.1, 2.11.3, 2.12.0
+  rspec-instafail 0.2.4
+  rspec-mocks 2.9.0, 2.11.3, 2.12.0
+  rspec-rails 2.9.0, 2.11.0, 2.12.0
+  ruby-graphviz 0.9.21
+  ruby-progressbar 1.0.2
+  rubygems-bundler 0.3.0
+  rubyzip 0.9.6.1, 0.9.7, 0.9.8, 0.9.9
+  sanitize 2.0.3
+  sass 3.1.15, 3.1.16, 3.2.1, 3.2.3
   sass-rails 3.2.5
-  selenium-webdriver 2.20.0, 2.25.0
-  shoulda 3.0.1, 3.1.1
+  selenium-webdriver 2.20.0, 2.21.0, 2.21.2, 2.25.0, 2.26.0
+  shoulda 2.11.3, 3.0.1
   shoulda-context 1.0.0
-  shoulda-matchers 1.0.0, 1.2.0
-  simple_form 2.0.1, 2.0.2
-  simplecov 0.6.1, 0.6.4
-  simplecov-html 0.5.3
+  shoulda-matchers 1.0.0, 1.1.0
+  sidekiq 2.5.4
+  signature 0.1.4, 0.1.6
+  simple_form 2.0.1
+  simplecov 0.6.1, 0.6.2, 0.6.4, 0.7.1
+  simplecov-html 0.5.3, 0.7.1
+  sinatra 1.3.3
+  slim 1.3.4
+  slop 3.3.3
+  spine-rails 0.1.0
+  spork 0.9.0, 0.9.2
   sprockets 2.1.2, 2.1.3, 2.2.2
   sqlite3 1.3.5
-  tconsole 1.1.1
+  sunspot 1.3.1
+  sunspot_rails 1.3.1
+  sunspot_solr 1.3.1
+  temple 0.5.5
   term-ansicolor 1.0.7
-  therubyracer 0.10.2, 0.11.0beta7, 0.11.0
-  thin 1.5.0
+  terminal-notifier-guard 1.5.3
+  therubyracer 0.10.1
+  thin 1.3.1
   thor 0.14.6, 0.16.0
   tilt 1.3.3
   timeliness 0.3.6
+  timers 1.0.1
+  tire 0.4.0, 0.4.3, 0.5.1
   treetop 1.4.10, 1.4.12
   twitter-bootstrap-rails 2.0.6
-  tzinfo 0.3.33, 0.3.35
-  uglifier 1.2.4, 1.2.7
-  validates_timeliness 3.0.11, 3.0.12
-  warden 1.2.1
+  tzinfo 0.3.32, 0.3.33, 0.3.35
+  uglifier 1.2.4, 1.3.0
+  uniform_notifier 1.0.2
+  validates_timeliness 3.0.11
+  vcard 0.1.1, 0.2.0
+  warden 1.1.1, 1.2.1
+  webmock 1.8.10, 1.9.0
+  websocket 1.0.4
   will_paginate 3.0.3
   wirble 0.1.3
-  xpath 0.1.4
+  xpath 0.1.4, 1.0.0
+  yajl-ruby 1.1.0
+  yard 0.7.5, 0.8.2.1, 0.8.3
 
 === ENVIRONMENT:
 
-Apple_PubSub_Socket_Render => "/tmp/launch-NwpdMJ/Render"
-Apple_Ubiquity_Message => "/tmp/launch-PQDTS8/Apple_Ubiquity_Message"
+Apple_PubSub_Socket_Render => "/tmp/launch-DW9NFX/Render"
 COMMAND_MODE => "unix2003"
-GEM_HOME => "/Users/julia/.rvm/gems/ruby-1.9.3-p327"
-GEM_PATH => "/Users/julia/.rvm/gems/ruby-1.9.3-p327:/Users/julia/.rvm/gems/ruby-1.9.3-p327@global"
-HOME => "/Users/julia"
-IRBRC => "/Users/julia/.rvm/rubies/ruby-1.9.3-p327/.irbrc"
+DISPLAY => "/tmp/launch-rMwRWH/org.x:0"
+GEM_HOME => "/Users/elizabethli/.rvm/gems/ruby-1.9.3-p125"
+GEM_PATH => "/Users/elizabethli/.rvm/gems/ruby-1.9.3-p125:/Users/elizabethli/.rvm/gems/ruby-1.9.3-p125@global"
+HOME => "/Users/elizabethli"
+IRBRC => "/Users/elizabethli/.rvm/rubies/ruby-1.9.3-p125/.irbrc"
 LANG => "en_US.UTF-8"
-LOGNAME => "julia"
-MY_RUBY_HOME => "/Users/julia/.rvm/rubies/ruby-1.9.3-p327"
-OLDPWD => "/Users/julia"
-PATH => "/usr/local/heroku/bin:/usr/local/bin:/Users/julia/.rvm/gems/ruby-1.9.3-p327/bin:/Users/julia/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/julia/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/julia/.rvm/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/julia/.rvm/bin"
-PWD => "/Users/julia/Dropbox/Public/axo"
-RUBY_VERSION => "ruby-1.9.3-p327"
-SHELL => "/bin/zsh"
+LOGNAME => "elizabethli"
+MY_RUBY_HOME => "/Users/elizabethli/.rvm/rubies/ruby-1.9.3-p125"
+OLDPWD => "/Users/elizabethli/projects/axo"
+PATH => "/Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/bin:/Users/elizabethli/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/elizabethli/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/elizabethli/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin"
+PWD => "/Users/elizabethli/projects/axo/website"
+RUBY_VERSION => "ruby-1.9.3-p125"
+SHELL => "/bin/bash"
 SHLVL => "1"
-SSH_AUTH_SOCK => "/tmp/launch-qa2Ogx/Listeners"
-TERM => "xterm-256color"
+SSH_AUTH_SOCK => "/tmp/launch-S6cHYM/Listeners"
+TERM => "xterm-color"
 TERM_PROGRAM => "Apple_Terminal"
-TERM_PROGRAM_VERSION => "309"
-TERM_SESSION_ID => "4213B3FE-2D38-4F39-86C8-CA9C781EDC79"
-TMPDIR => "/var/folders/_v/vm265dk54g3cz6t318tvss6r0000gn/T/"
-USER => "julia"
-_ => "/Users/julia/.rvm/gems/ruby-1.9.3-p327/bin/nanoc"
-_ORIGINAL_GEM_PATH => "/Users/julia/.rvm/gems/ruby-1.9.3-p327:/Users/julia/.rvm/gems/ruby-1.9.3-p327@global"
+TERM_PROGRAM_VERSION => "273.1"
+TMPDIR => "/var/folders/Ye/YecJXCyDHHas2LuLJEAh-U+++TI/-Tmp-/"
+USER => "elizabethli"
+_ => "/Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/bin/nanoc"
 __CF_USER_TEXT_ENCODING => "0x1F5:0:0"
-__array_start => "1"
-_first => "1"
-_second => "2"
+__array_start => "0"
+_first => "0"
+_second => "1"
 escape_flag => "1"
-rvm_alias_expanded => ""
-rvm_bin_path => "/Users/julia/.rvm/bin"
-rvm_docs_type => ""
-rvm_gemstone_package_file => ""
-rvm_gemstone_url => ""
-rvm_hook => ""
-rvm_niceness => ""
-rvm_nightly_flag => ""
-rvm_path => "/Users/julia/.rvm"
-rvm_prefix => "/Users/julia"
-rvm_proxy => ""
-rvm_quiet_flag => ""
-rvm_ruby_file => ""
-rvm_ruby_make => ""
-rvm_ruby_make_install => ""
-rvm_ruby_mode => ""
-rvm_script_name => ""
-rvm_sdk => ""
-rvm_silent_flag => ""
-rvm_version => "1.17.2 (stable)"
-rvm_wrapper_name => ""
+rvm_bin_path => "/Users/elizabethli/.rvm/bin"
+rvm_path => "/Users/elizabethli/.rvm"
+rvm_prefix => "/Users/elizabethli"
+rvm_version => "1.11.6"
 
 === $LOAD_PATH:
 
-  0. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib
-  1. /Users/julia/.rvm/gems/ruby-1.9.3-p327@global/gems/rubygems-bundler-1.1.0/lib
-  2. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/bundler-1.2.3/lib
-  3. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/colored-1.2/lib
-  4. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/cri-2.3.0/lib
-  5. /Users/julia/.rvm/gems/ruby-1.9.3-p327/gems/nanoc-3.4.2/lib
-  6. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/site_ruby/1.9.1
-  7. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/site_ruby/1.9.1/x86_64-darwin12.0.0
-  8. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/site_ruby
-  9. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/vendor_ruby/1.9.1
-  10. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/vendor_ruby/1.9.1/x86_64-darwin12.0.0
-  11. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/vendor_ruby
-  12. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/1.9.1
-  13. /Users/julia/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/1.9.1/x86_64-darwin12.0.0
+  0. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib
+  1. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/colored-1.2/lib
+  2. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/cri-2.3.0/lib
+  3. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/nanoc-3.4.3/lib
+  4. /Users/elizabethli/.rvm/gems/ruby-1.9.3-p125/gems/bundler-1.2.0.rc.2/lib
+  5. /Users/elizabethli/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/site_ruby/1.9.1
+  6. /Users/elizabethli/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/site_ruby/1.9.1/x86_64-darwin10.8.0
+  7. /Users/elizabethli/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/site_ruby
+  8. /Users/elizabethli/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/vendor_ruby/1.9.1
+  9. /Users/elizabethli/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/vendor_ruby/1.9.1/x86_64-darwin10.8.0
+  10. /Users/elizabethli/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/vendor_ruby
+  11. /Users/elizabethli/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1
+  12. /Users/elizabethli/.rvm/rubies/ruby-1.9.3-p125/lib/ruby/1.9.1/x86_64-darwin10.8.0
