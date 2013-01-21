@@ -28,6 +28,7 @@
 /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 
+.icon-menu:before { content: '\2630'; } /* '☰' */
 .icon-network:before { content: '\e776'; } /* '' */
 .icon-facebook-squared:before { content: '\f30e'; } /* '' */
 
