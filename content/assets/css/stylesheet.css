@@ -30,6 +30,40 @@ a:hover,
 	font-family: 'Minion Pro','Crimson Text', serif;
 }
 
+#main-content h1 {
+    font-family: 'Minion Pro','Crimson Text', serif;
+    font-size: 2.25em;
+    border-bottom: 1px solid #333;
+    padding-bottom: 0.2em;
+    margin-bottom: 0.66em;
+}
+#main-content h2 {
+    font-size: 1.5em;
+    color: #9ea374;
+    margin-bottom: 0.5em;
+    margin-top:1.5em;
+}
+#main-content h1 + h2 {
+    margin-top: 0;
+}
+#main-content h3 {
+    margin-top: 2em;
+    font-size: 1em;
+    margin-bottom: 0.5em;
+    font-style: italic;
+    border-bottom: 1px solid #333;
+    padding-bottom: 0.2em;
+}
+
+#main-content h2 + h3 {
+    margin-top: 0;
+}
+#main-content h4 {
+    color: black;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
 #main-content ul {
 	list-style-type: circle;
 	font-size: 0.9em;
@@ -139,6 +173,10 @@ blockquote {
 blockquote + p {
     margin-top: -3em;
     text-align: right;
+}
+
+blockquote + h2 {
+	margin-top: 1em;
 }
 
 h1, h2, h3 {
