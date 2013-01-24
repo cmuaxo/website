@@ -26,4 +26,4 @@ Every night during FMR, you visit fewer houses. Which houses you go back to depe
 
 COB/IMR are two different acronyms for the same thing. COB stands for "Continuous Open Bidding" and IMR stands for "Infomal Membership Recruitment". Basically, when chapters haven't reached the total number of members they are allowed to have after FMR ends, they can invite other women to join their chapter (giving out 'bids') later in the Fall and Spring semesters.
 
-At Alpha Chi Omega, informal recruitment usually looks something like this. Current sisters suggest women they know who they think could be a great fit for AX&#937;. Then we invite those women to informal events so that they can meet more sisters. If we think AX&#937; is a good fit for both the woman and the chapter, we offer them a bid (inviting them to join).
+Informal recruitment at Alpha Chi Omega is exactly that: informal. Potential Members are invited to relaxed, fun-filled events so that they can meet more sisters and get an idea of what it’s like to be in AX&#937 . If we think AX&#937; is a good fit for both the potential member and the chapter, we offer them a bid (inviting them to join).
