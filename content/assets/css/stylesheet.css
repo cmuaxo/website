@@ -11,15 +11,12 @@ a,
 .ui-body-c .ui-link,
 .ui-body-c .ui-link:visited {
 	text-decoration: none;
-	color: white;
-	font-size: 1.5em;
-	padding-left: 1%;
 }
 
 a:hover,
 .ui-body-c .ui-link:hover {
 	text-decoration: none;
-	color: #000;
+	color: #A0C5E8;
 }
 
 #page-wrapper {
@@ -33,7 +30,18 @@ a:hover,
 	font-family: 'Minion Pro','Crimson Text', serif;
 }
 
-#main-content a.icon-menu {
+#main-content ul {
+	list-style-type: circle;
+	font-size: 0.9em;
+	padding-left: 2em;
+}
+
+#main-content ul li {
+    line-height: 1.3em;
+    margin-bottom: 0.75em
+}
+
+a.icon-menu {
   display: none;
   position: absolute;
   top: 2%;
@@ -109,11 +117,28 @@ a:hover,
   background: transparent;
 }
 
+#mobile-header {
+	display: none;
+}
+
 #main-content {
 	padding: 4em 0 1em 15%;
 }
 
 #main-content, #page-header {
+}
+
+blockquote, blockquote + p {
+	background-color: #e9f5ec;	
+	padding: 1.5em 2em;
+}
+
+blockquote {
+}
+
+blockquote + p {
+    margin-top: -3em;
+    text-align: right;
 }
 
 h1, h2, h3 {
@@ -125,18 +150,17 @@ h1, h2, h3 {
 }
 
 #footer {
-	margin-top: 3em;
+	margin-top: 1em;
 }
 
 #footer ul {
-  padding: 0 7% 0 -1%;
-  text-align: right;
+  padding: 2em 7%;
+  text-align: left;
 }
 
 #footer ul li {
   display: inline-block;
   font-size: 1.5em;
-  float: left;
 }
 
 #footer ul li a,
@@ -152,16 +176,28 @@ h1, h2, h3 {
 /*===============================
   Media Queries
  ===============================*/
- 
+
 @media screen and (max-width: 650px) {
   
   #page-header {
-    width: 15.9em;
+    width: 63.5%;
+    margin-top: 0;
+  
+    padding: 0;
+    margin-left:  0;
+}
+
+  #head {
+  	display: none;
   }
   
+  #nav {
+  	padding-top: 1em;
+  }
+
   #page-wrapper {
-    width: 94%;
-    margin: 0 3%;
+    width: 98%;
+    margin: 0 1%;
     padding: 0;
     overflow: hidden;
   }
@@ -170,8 +206,35 @@ h1, h2, h3 {
     width: 86%;
   }
   
-  #main-content a.icon-menu {
+  #mobile-header {
+  	display: block;
+  
+  	background-image: url('../images/pattern.png');
+  	padding: 0.1em;
+}
+
+  #mobile-header p {
+  	margin: 0.75em 0;
+  
+  	color: white;
+  	font-weight: bold;
+  	margin-left: 17%;
+  	font-size: 1.2em;
+}
+
+  #page-wrapper a.icon-menu {
     display: inline-block;
+	top: 0.5em;
+	z-index: 100;
+	font-size: 1.5em;
+	color: white;
+	
+    background-color: rgba(255, 255, 255, 0.21);
+	border-radius: 0.2em;
+  }
+
+  #main-content {
+  	padding: 1.5em 0 1em 12%;
   }
   
 }

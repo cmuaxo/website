@@ -16,7 +16,7 @@ Life at Carnegie Mellon is challenging and rewarding. By joining Alpha Chi, we m
 
 Part of our sisterhood is our house. It's the people that make it special, but the Alpha Chi house is a home away from home. Instead of walking past a desk attendant, you walk into a home filled with friends.
 
-## Bonding Times (Activities and Sisterhood Events)
+## Sisterhood Activities
 
 Sisters can always be found spending time together, whether it be in the chapter house or on campus. Whether at home watching movies together or just being silly, or out working together on academics or service. It's these moments together that help foster such a strong relationship. 
 
