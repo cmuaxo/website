@@ -11,13 +11,15 @@ a,
 .ui-body-c .ui-link,
 .ui-body-c .ui-link:visited {
 	text-decoration: none;
-	color: #aeb37e;
+	color: white;
+	font-size: 1.5em;
+	padding-left: 1%;
 }
 
 a:hover,
 .ui-body-c .ui-link:hover {
 	text-decoration: none;
-	color: #81835c;
+	color: #000;
 }
 
 #page-wrapper {
