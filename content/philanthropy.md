@@ -8,7 +8,7 @@ title: Philanthropy
 
 One out of four women are survivors of domestic violence. And **one out of three** college-aged women are affected by domestic violence.
 
-![Love Shouldn't Hurt](http://finallybrave.com/wp-content/uploads/2012/06/Love-Shouldnt-Hurt-Skye-Townsend-Go-Fish-Karina-Pasian.png)
+![Sign about Domestic Violence Statistics](/assets/images/philanthropy/1in3sign.jpg)
 
 Alpha Chi Omega's official philanthropy is domestic violence awareness. We work to prevent domestic violence, raise awareness about its severity, educate others on how to recognize and address it, and support organizations that assist survivors of domestic violence and their children.
 
@@ -23,6 +23,8 @@ The money we raise for Domestic Violence Awareness benefits two organizations. L
 Throughout the year, our chapter hosts many events to fundraise for domestic violence awareness. 
 
 #### Walk A Mile in Her Shoes
+
+![Photos from Walk A Mile](/assets/images/philanthropy/walk-a-mile-collage.jpg)
 
 At the end of October, we host an event called “Walk A Mile In Her Shoes.” [Walk a Mile In Her Shoes](http://www.walkamileinhershoes.org/) is an "international men's march to stop rape, sexual assualt, and gender violence". 
 
@@ -81,6 +83,8 @@ Though Domestic Violence Awareness is our primary philanthropy, we encourage and
 - Work at the Animal Rescue League Shelter & Wildlife Center in Pittsburgh
 
 #### Greek Sing
+
+![]
 
 At CMU's annual "Greek Sing" show, the fraternities and sororities at CMU create and perform short Broadway musical montages. All of the proceeds from Greek Sing go to a chosen philanthropy. From 2010-2014, that philanthropy is [the Children's Institute of Pittsburgh](http://www.amazingkids.org/). 
 
