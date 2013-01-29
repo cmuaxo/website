@@ -218,12 +218,12 @@ h1, h2, h3 {
 @media screen and (max-width: 650px) {
   
   #page-header {
-    width: 63.5%;
+    width: 73%;
     margin-top: 0;
   
     padding: 0;
-    margin-left:  0;
-}
+    margin-left: 1.5%;
+  }
 
   #head {
   	display: none;
@@ -262,17 +262,27 @@ h1, h2, h3 {
 
   #page-wrapper a.icon-menu {
     display: inline-block;
-	top: 0.5em;
-	z-index: 100;
-	font-size: 1.5em;
-	color: white;
+  	top: 0.5em;
+  	z-index: 100;
+  	font-size: 1.5em;
+  	color: white;
 	
     background-color: rgba(255, 255, 255, 0.21);
-	border-radius: 0.2em;
+	  border-radius: 0.2em;
   }
 
   #main-content {
   	padding: 1.5em 0 1em 12%;
+  }
+  
+  .ui-panel-animate.ui-panel-content-fixed-toolbar-position-left.ui-panel-content-fixed-toolbar-open.ui-panel-content-fixed-toolbar-display-reveal, 
+  .ui-panel-animate.ui-panel-content-fixed-toolbar-position-left.ui-panel-content-fixed-toolbar-open.ui-panel-content-fixed-toolbar-display-push, 
+  .ui-panel-animate.ui-panel-content-wrap-position-left.ui-panel-content-wrap-open.ui-panel-content-wrap-display-reveal, 
+  .ui-panel-animate.ui-panel-content-wrap-position-left.ui-panel-content-wrap-open.ui-panel-content-wrap-display-push {
+    left: 0;
+    -webkit-transform: translate3d(75%,0,0);
+    -moz-transform: translate3d(75%,0,0);
+    transform: translate3d(75%,0,0);
   }
   
 }
