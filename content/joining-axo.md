@@ -2,8 +2,6 @@
 title: Joining AX&#937;
 ---
 
-**[Old Page for Reference](http://www.andrew.cmu.edu/user/alphachi/recruitment.html)**
-
 # Joining AX&#937;
 
 Hi there! We're glad that you are thinking about joining Alpha Chi Omega! There are two ways that new members join AX&#937;: FMR and COB/IMR. Keep reading below to find out what those (ever so mysterious) acronyms mean!
