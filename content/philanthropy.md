@@ -84,8 +84,6 @@ Though Domestic Violence Awareness is our primary philanthropy, we encourage and
 
 #### Greek Sing
 
-![]
-
 At CMU's annual "Greek Sing" show, the fraternities and sororities at CMU create and perform short Broadway musical montages. All of the proceeds from Greek Sing go to a chosen philanthropy. From 2010-2014, that philanthropy is [the Children's Institute of Pittsburgh](http://www.amazingkids.org/). 
 
 In 2012, Alpha Chi Omega partnered with Sigma Chi and took first place in the doubles category for our performance of "Footloose". You can see the video of the performance below:

@@ -4,24 +4,8 @@ title: Academics
 
 # Academics at AX&#937;
 
+![Sisters working together on a project.](/assets/images/academics/working-together.jpg)
 
-## We value academics and learning.
+Carnegie Mellon is a rigorous institution and we always strive to put academics first; as one of our membership standards is academic interest, we require that all sisters maintain at least a 2.5 QPA. To aid our sisters in their academic endeavors, we have sisters set aside some time to study in the library with others at least twice a week. We also have a flexible activities schedule that allows sisters to focus on schoolwork and other academic obligations. In addition, arrangements can be made with the Vice President of Intellectual Development to seek extra-curricular help, such as creating academic plans and finding tutors.
 
-### It's a priority.
-
-- we require that all sisters maintain at least a 2.5 QPA. 
-- we have study hours
-
-### So much that we invite our professors to meet our sisters.
-
-Apple Pie with Alpha Chi.
-
-- invite professors to dessert reception
-- get to know them outside class
-- *smart* sorority women
-
-"The chapter also hosts an event called Apple Pie with Alpha Chi each semester to honor sisters who receive a 4.0 GPA for that semester and to invite professors and staff to come mingle with some truly talented young women."
-
-## CMU is hard. We support each other.
-
-- struggling people get help. we've got a guy for that.
+Each semester, sisters invite their professors and academic advisors to a dessert reception known as Apple Pie with Alpha Chi. This event is a great opportunity to get to know the faculty and staff of Carnegie Mellon in a non-academic setting. In addition, sisters who have earned a 4.0 QPA in the previous semester are awarded a scholarship pearl at this event.
