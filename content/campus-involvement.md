@@ -4,8 +4,7 @@ title: Campus Involvement
 
 # Campus Involvement and Leadership
 
-At Alpha Chi Omega, your sorority is a part of your life&mdash;not your whole life. We encourage all of our members to be involved in other extracurricular activities and to take on leadership roles in activities that they're most passonate about. 
-
+At Alpha Chi Omega, your sorority is a part of your life&mdash;not your whole life. We encourage all of our members to be involved in other extracurricular activities and to take on leadership roles in activities that they're most passionate about. We have sisters with a wide variety of interests and talents and urge them to explore them.
 ![AXO's at Buggy](/assets/images/involvement/buggy.jpg)
 ![AXO's at Kiltie Band](/assets/images/involvement/kiltie-axo.jpg)
 
