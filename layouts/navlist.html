@@ -1,0 +1,25 @@
+<% nav_items = {"home" => '/',
+			"sisterhood" => '', 
+			#{}"members" => '', 
+			"philanthropy" => '', 
+			"academics" => '', 
+			"campus involvement" => '', 
+			"traditions & history" => '', 
+			"the house" => '', 
+			"joining AX&#937;" => 'joining-axo'} %>
+<ul>
+<% nav_items.each do |item_name, item_url| %>
+	<% 
+	if item_url == ''
+		item_href = item_name.gsub('&', 'and').gsub(/ /,'-')
+	else
+		item_href = item_url
+	end
+	capitalized_item = item_name.split(" ").each{|word| word.capitalize!}.join(" ");
+    if item_href != '/'
+        item_href = '/' + item_href + '/'
+    end
+	%>
+	<li><a href="<%= item_href %>"><%= capitalized_item %></a></li>
+<% end %>
+</ul>

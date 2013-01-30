@@ -1,12 +1,35 @@
-// Swipe right to open panel
-$(document).on('swiperight', function(event, ui) {
-  $('#page-header').panel('open', {display: 'reveal', position: 'left'} );
+// set up responsive nav
+$(document).ready(function(){
+	init();
 });
 
-// Swipe left to close panel
-$(document).on('swipeleft', function(event, ui) {
-  $('#page-header').panel('close');
-});
+function init() {
+	bindMenuTrigger();
+}
+
+function bindMenuTrigger() {
+	console.log('trigger bound');
+	$('.icon-menu').bind('click', function(){
+		console.log('trigger click');
+		toggleMenu(undefined);
+	});
+}
+
+function toggleMenu(menu) {
+	console.log('showmenu');
+	if (typeof menu === 'undefined') {
+		menu = $('#mobile-nav');
+	}
+	else {
+		menu = $(menu);
+	}
+	// show menu
+	menu.slideToggle({
+			duration: 700
+		}, 
+		function(){console.log('toggled');}
+	);
+}
 
 // Fixes iPhone Safari viewport scaling bug
 (function(doc) {

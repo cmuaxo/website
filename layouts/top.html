@@ -5,30 +5,9 @@
   	   	<div id="head">
   	  		<a href="#" id="logo"><img src="/assets/images/logo-t.png" alt="Alpha Chi Omega Kappa Nu Chapter at Carnegie Mellon University" id="logo-img"/></a>
   	  	</div>
-  		  <% nav_items = {"home" => '/',
-    						"sisterhood" => '', 
-    						#{}"members" => '', 
-    						"philanthropy" => '', 
-    						"academics" => '', 
-    						"campus involvement" => '', 
-    						"traditions & history" => '', 
-    						"the house" => '', 
-    						"joining AX&#937;" => 'joining-axo'} %>
-    		<div id="nav">
-    			<ul>
-    			<% nav_items.each do |item_name, item_url| %>
-    				<% 
-    				if item_url == ''
-    					item_href = item_name.gsub('&', 'and').gsub(/ /,'-')
-    				else
-    					item_href = item_url
-    				end
-    				capitalized_item = item_name.split(" ").each{|word| word.capitalize!}.join(" ");
-    				%>
-    				<li><a href="/<%= item_href %>/"><%= capitalized_item %></a></li>
-    			<% end %>
-    			</ul>
-    		</div>
+        <div id="nav" class="navigation">
+          <%= render 'navlist' %>
+        </div>
     		<div id="footer">
     			<ul>
     				<li><a href="http://www.alphachiomega.org/" class="icon-network"> </a></li>
@@ -40,8 +19,11 @@
 
       <div id="page-wrapper" data-role="content">
         <div id="mobile-header">
-          <a href="#page-header" data-rel="panel" class="icon-menu"></a>
+          <a href="#mobile-nav" class="icon-menu"></a>
           <p>AX&#937; at Carnegie Mellon</p>
+          <div id="mobile-nav" class="navigation mobile-nav">
+            <%= render 'navlist' %>
+          </div>
         </div>
       	<a name="main"></a>
       	<div id="content-wrapper">
