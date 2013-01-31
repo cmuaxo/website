@@ -26,10 +26,10 @@ Sisters can always be found spending time together, whether it be in the chapter
 
 One of the perks of being an Alpha Chi is our process of Big and Little sister matching. Your big is your mentor. They'll shower you with affection, and be there for you come what may. It's these bonds between sisters that makes Alpha Chi Omega a home away from home.
 
-Being an Alpha Chi means being among women who share similar values, interests, and ambitions. It's being with forming bonds of friendship with your sisters, that will last far beyond college. 
+Being an Alpha Chi means being among women who share similar values, interests, and ambitions. It's forming bonds of friendship with your sisters, that will last far beyond college. 
 
 ## Sorority Life
 
-> People ask why I am in a sorority and I try to explain all the things a sorority is that they cannot see. A sorority is more than letters on a sweatshirt, I say. More than traditional songs, a gold pin, rituals, an oblication, or a way of life. A sorority is learning about people, a sorority is a way of giving without expecting a return. A sorority is earning respect from others, as well as for yourself. A sorority will not solve all your problems. But I have made good friends and found confidence there to help me take life one step at a time. 
+> People ask why I am in a sorority and I try to explain all the things a sorority is that they cannot see. A sorority is more than letters on a sweatshirt, I say. More than traditional songs, a gold pin, rituals, an obligation, or a way of life. A sorority is learning about people, a sorority is a way of giving without expecting a return. A sorority is earning respect from others, as well as for yourself. A sorority will not solve all your problems. But I have made good friends and found confidence there to help me take life one step at a time. 
 
 &mdash;Source Unknown
