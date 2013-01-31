@@ -25,7 +25,7 @@ function toggleMenu(menu) {
 	}
 	// show menu
 	menu.slideToggle({
-			duration: 700
+			duration: 300
 		}, 
 		function(){console.log('toggled');}
 	);

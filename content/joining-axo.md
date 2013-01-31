@@ -20,7 +20,7 @@ Every night during FMR, you visit fewer houses. Which houses you go back to depe
 
 ## COB/IMR, <s>Come On By/It's More Relaxed</s>
 
-![Sisters painting things at a fun event.](/assets/images/joining-axo/painting-people.jpg)
+![Sisters painting things at a fun event.](/assets/images/joining-axo/home.jpg)
 
 COB/IMR are two different acronyms for the same thing. COB stands for "Continuous Open Bidding" and IMR stands for "Infomal Membership Recruitment". Basically, when chapters haven't reached the total number of members they are allowed to have after FMR ends, they can invite other women to join their chapter (giving out 'bids') later in the Fall and Spring semesters.
 

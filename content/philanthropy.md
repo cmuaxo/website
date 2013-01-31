@@ -68,7 +68,7 @@ During October, which is Domestic Violence Awareness Month, sisters gather toget
 
 ![Gwen's Girls Logo](/assets/images/philanthropy/gwens-girls.png)
 
-Some semesters, groups of sisters have volunteered as mentors and tutors at [Gwen's Girls](http://www.gwensgirls.org/index.php), a local organization that to support young women who have survived domestic violence or are otherwise at risk.
+Some semesters, groups of sisters have volunteered as mentors and tutors at [Gwen's Girls](http://www.gwensgirls.org/index.php), a local organization that supports young women who have survived domestic violence or are otherwise at risk.
 
 ### Other Service Work
 

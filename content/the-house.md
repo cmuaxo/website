@@ -14,7 +14,7 @@ The four-level house includes two levels of bedrooms which can accommodate 33 wo
 
 ***Living in the House***
 
-If you ask any AX&#937 sister living in the house, they will tell you that their favorite thing about living in the house is always having someone to hang out with and talk to. Proximity to campus, well maintained facilities and amazing food courtesy of our Chef, Debbie also rank pretty high on their list of favorite things about the house. Everyday is a chance to bond with other sisters.
+If you ask any AX&#937; sister living in the house, they will tell you that their favorite thing about living in the house is always having someone to hang out with and talk to. Proximity to campus, well maintained facilities and amazing food courtesy of our Chef, Debbie also rank pretty high on their list of favorite things about the house. Everyday is a chance to bond with other sisters.
 
 ![Sisters bonding over a game of Chess](/assets/images/house/chess.jpg)
 
