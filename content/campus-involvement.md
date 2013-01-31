@@ -24,7 +24,7 @@ These are just a few of the activities in which sisters of Alpha Chi Omega are i
 - Circle K
 - Club Water Polo
 - C-MITES
-- Counterpoing
+- Counterpoint
 - Creators Coalition
 - Dancers' Symposium
 - East End Youth Projects
@@ -52,7 +52,7 @@ These are just a few of the activities in which sisters of Alpha Chi Omega are i
 - Society of Women Engineers
 - String Theory
 - Strive for College
-- Strong Women, Stron g Girls
+- Strong Women, Strong Girls
 - Stuco Executive Committee
 - TA'ing
 - TechBridgeWorld
