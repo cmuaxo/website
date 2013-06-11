@@ -46,17 +46,21 @@ We charge a few dollars to participate in the tournament, and donate all the pro
 
 Every February (just in time for Mother's Day) we sell [Vera Bradley](http://www.verabradley.com/) accessories on campus. The sale is co-sponsored by Cheeks Boutique in Shadyside, and 15% of each sale goes to either the Pittsburgh Women's Shelter or the Alpha Chi Omega Foundation.
 
-#### All You Can Eat Mac and Cheese
+#### Nostalgic Noms
 
-All You Can Eat Mac and Cheese is one of our annual events. We sell tickets to an all-you-can-eat mac and cheese buffet, and donate all proceeds to the Pittsburgh Women's Shelter.
+![Nostalgic Noms](/assets/images/philanthropy/nostalgic-noms.png)
+
+At Nostalgic Noms, we sell tickets to eat an all-you-can-eat buffet of childhood foods and favorite childhood pasttimes as entertainment (coloring books, movies, etc.) Proceeds in 2013 went to the Children's Institute of Pittsburgh, and in the past we have donated proceeds from this event to the Women's Shelter of Pittsburgh.
 
 #### Luminaries
 
 ![A luminary](/assets/images/philanthropy/luminaries.jpg)
 
-During the Fall semester, sisters sell luminaries (candle lights) to raise money for the Pittsburgh Women's Shelter. Then, one night, we place the luminaries around campus to raise awareness about Domestic Violence.
+During the Fall semester, sisters sell luminaries (candle lights) to raise money for the Pittsburgh Women's Shelter. Then we place the luminaries around campus to raise awareness about Domestic Violence.
 
-#### A Chai O
+#### Alpha Chai Omega
+
+![Alpha Chai](/assets/images/philanthropy/alpha-chai.png)
 
 At the beginning of the spring semester, we have a new event called Alpha Chai Omega, where we sell hot chai tea to raise money for the Alpha Chi Omega Foundation.
 
@@ -86,11 +90,13 @@ Though Domestic Violence Awareness is our primary philanthropy, we encourage and
 
 At CMU's annual "Greek Sing" show, the fraternities and sororities at CMU create and perform short Broadway musical montages. All of the proceeds from Greek Sing go to a chosen philanthropy. From 2010-2014, that philanthropy is [the Children's Institute of Pittsburgh](http://www.amazingkids.org/). 
 
-In 2012, Alpha Chi Omega partnered with Sigma Chi and took first place in the doubles category for our performance of "Footloose". You can see the video of the performance below:
+![Greek Sing 2013 Cast Photo](/assets/images/philanthropy/greek-sing-2013.jpg)
+
+In 2013, Alpha Chi and Lambda Phi Epsilon performed "Hercules". More importantly, in 2013 Greek Sing raised $74,000 for the Children's Institute! We don't have a video for our 2013 show, but you can see the video of our performance of "Footloose" from 2012 below:
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/_aBgb_EjiHg" frameborder="0" allowfullscreen></iframe>
 
-More importantly, in 2012 Greek Sing raised $56,000 for the Children's Institute!
+
 
 
 

@@ -10,13 +10,13 @@ Life at Carnegie Mellon is challenging and rewarding. By joining Alpha Chi, we m
 
 ## What Makes Us Home
 
-![Laying around](/assets/images/sisterhood/belly-laying.jpg)
+![Laying around](/assets/images/sisterhood/at-table.jpg)
 
 Part of our sisterhood is our house. It's the people that make it special, but the Alpha Chi house is a home away from home. Instead of walking past a desk attendant, you walk into a home filled with friends.
 
 ## Sisterhood Activities
 
-![Sisters out and about](/assets/images/sisterhood/out-and-about-1.jpg)
+![Sisters out and about](/assets/images/sisterhood/campbell-and-emo.jpg)
 
 Sisters can always be found spending time together, whether it be in the chapter house or on campus. Whether at home watching movies together or just being silly, or out working together on academics or service. It's these moments together that help foster such a strong relationship. 
 

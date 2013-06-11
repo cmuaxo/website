@@ -16,12 +16,12 @@ The four-level house includes two levels of bedrooms which can accommodate 33 wo
 
 If you ask any AX&#937; sister living in the house, they will tell you that their favorite thing about living in the house is always having someone to hang out with and talk to. Proximity to campus, well maintained facilities and amazing food courtesy of our Chef, Debbie, also rank pretty high on their list of favorite things about the house. Everyday is a chance to bond with other sisters.
 
-![Sisters bonding over a game of Chess](/assets/images/house/chess.jpg)
+![Sisters bonding over a game of Chess](/assets/images/house/emo-and-aimee.jpg)
 
 ## Meal Plan
-
-![Sisters in the dining area](/assets/images/house/eating-in-the-kitchen.jpg)
 
 Alpha Chi Omega is lucky enough to be the only sorority on campus to live in a facility with an industrial kitchen. Alpha Chi employs Chef Debbie who provides the sisters with a healthy, affordable meal plan. The plan includes lunches Monday through Friday and dinners Monday through Thursday (with leftovers available for the weekends). 
 
 Sisters who have dietary restrictions or need to cook for an event may also utilize our kitchenette, where we provide basic cooking ingredients and various beverages.
+
+![Sisters in the dining area](/assets/images/house/eating-in-the-kitchen.jpg)

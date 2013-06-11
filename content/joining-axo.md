@@ -18,10 +18,10 @@ Every night during FMR, you visit fewer houses. Which houses you go back to depe
 [At Carnegie Mellon, FMR happens during the Fall Semester over four nights](http://www.studentaffairs.cmu.edu/student-life/greek/govcouncils/pha/recruitment.html), starting on a Thursday night and ending on a Sunday. If you're interested in participating in FMR, you can [sign up through the CMU Greek Life site](http://www.studentaffairs.cmu.edu/student-life/greek/govcouncils/pha/recruitment.html). You can also find out more about sorority life at CMU by going to Greek events at the beginning of the Fall semester. Even if you're not too sure about Greek life, going to the beginning of the semester events is a great way to <s>get free food</s> meet new people and learn how things are at CMU.
 
 
+![Group photo of people dressed up for FMR.](/assets/images/joining-axo/friendly-fmr.jpg)
+
 ## COB/IMR
 
-![Sisters painting things at a fun event.](/assets/images/joining-axo/home.jpg)
-
-COB stands for "Continuous Open Bidding" and IMR stands for "Infomal Membership Recruitment". Basically, when chapters haven't reached the total number of members they are allowed to have after FMR ends, they can invite other women to join their chapter (giving out 'bids') later in the Fall and Spring semesters.
+COB stands for "Continuous Open Bidding" and IMR stands for "Infomal Membership Recruitment". When chapters haven't reached the total number of members they are allowed to have after FMR ends, they can invite other women to join their chapter (giving out 'bids') later in the Fall and Spring semesters.
 
 Informal recruitment at Alpha Chi Omega is exactly that: informal. Potential Members are invited to relaxed, fun-filled events so that they can meet more sisters and get an idea of what it’s like to be in Alpha Chi Omega . If we think AX&#937; is a good fit for both the potential member and the chapter, we offer them a bid (inviting them to join).
