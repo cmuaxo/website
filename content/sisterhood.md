@@ -22,7 +22,7 @@ Sisters can always be found spending time together, whether it be in the chapter
 
 ## Bigs and Littles
 
-![Liz and Anya](/assets/images/sisterhood/liz-and-anya.jpg)
+![Julia and Laura](/assets/images/sisterhood/julia-and-laura.jpg)
 
 One of the perks of being an Alpha Chi is our process of Big and Little sister matching. Your big is your mentor. They'll shower you with affection, and be there for you come what may. It's these bonds between sisters that makes Alpha Chi Omega a home away from home.
 
