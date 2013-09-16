@@ -4,18 +4,20 @@ title: Joining AX&#937;
 
 # Joining AX&#937;
 
-Hi there! We're glad that you are thinking about joining Alpha Chi Omega! There are two ways that new members join AX&#937;: FMR and COB/IMR. Keep reading below to find out what those (ever so mysterious) acronyms mean!
 
+Thinking about joining our Kappa Nu chapter of Alpha Chi Omega? There are two ways to become a new member of AXΩ: FMR and COB/IMR. Keep reading below to find out what those acronyms mean!
+
+At Carnegie Mellon, FMR occurs during the Fall semester over four nights, starting on a Friday night and ending on a Monday. If you’re interested in participating in FMR, you can sign up by accessing the CMU Greek Life site. You can also find out more about sorority life at CMU by going to Greek events at the beginning of the Fall semester. Even if you’re not too sure about going Greek, these events are great chances to meet new people and learn what opportunities are available at CMU.
 
 ## FMR
 
 ![Group photo of people dressed up for FMR.](/assets/images/joining-axo/fmr-group-photo.png)
 
-FMR stands for Formal Membership Recruitment. Formal Membership Recruitment is when women who are interested in going Greek visit each sorority house on campus. FMR is a 'structured mutual selection process' run by the National Panhellenic Conference. In human-speak, this means that FMR has a set timeline and rules. 
+FMR stands for Formal Membership Recruitment. Formal Membership Recruitment is when women who are interested in going Greek visit each sorority house on campus. FMR is a 'structured mutual selection process' run by the National Panhellenic Conference. FMR has a set timeline and rules intended to give women interested in going Greek the opportunity to visit and learn about each sorority chapter on campus.
 
-Every night during FMR, you visit fewer houses. Which houses you go back to depends both on your preferences (you say which you want to go back to) and houses' invitations. Houses invite you back based on how well they think you fit their membership criteria based on your conversations with sisters from that house. At AX&#937;, the membership criteria we consider are: academic interest, character, leadership ability, personal development, and financial responsibility.
+On the first night of FMR, you visite every chapter on campus. On each subsequent night, you visit fewer chapter. Which chapter you go back to depends both on your preferences (you say which you want to go back to) and chapters' invitations. Your conversations and interactions with sisters during each night of FMR give a chapter a glimpse of your qualities and how you could potentially contribute as a member. Chapters extend invitations based on how well they think a participant fits their membership criteria. At AX&#937;, the membership criteria we consider are: academic interest, character, leadership ability, personal development, and financial responsibility. After the final night of FMR, chapters extend bids to the women they believe would fit their chapter well, and women participating in recruitment choose which chapter's bid they wish to accept.
 
-[At Carnegie Mellon, FMR happens during the Fall Semester over four nights](http://www.studentaffairs.cmu.edu/student-life/greek/govcouncils/pha/recruitment.html), starting on a Thursday night and ending on a Sunday. If you're interested in participating in FMR, you can [sign up through the CMU Greek Life site](http://www.studentaffairs.cmu.edu/student-life/greek/govcouncils/pha/recruitment.html). You can also find out more about sorority life at CMU by going to Greek events at the beginning of the Fall semester. Even if you're not too sure about Greek life, going to the beginning of the semester events is a great way to <s>get free food</s> meet new people and learn how things are at CMU.
+[At Carnegie Mellon, FMR happens during the Fall Semester over four nights](http://www.studentaffairs.cmu.edu/student-life/greek/govcouncils/pha/recruitment.html), starting on a Friday night and ending on a Monday. If you're interested in participating in FMR, you can [sign up through the CMU Greek Life site](http://www.studentaffairs.cmu.edu/student-life/greek/govcouncils/pha/recruitment.html). You can also find out more about sorority life at CMU by going to Greek events at the beginning of the Fall semester. Even if you're not too sure about going Greek, going to the beginning of the semester events is a great way to meet new people and learn about opportunities available at CMU.
 
 
 ![Group photo of people dressed up for FMR.](/assets/images/joining-axo/friendly-fmr.jpg)

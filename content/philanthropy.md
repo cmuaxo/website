@@ -30,15 +30,6 @@ At the end of October, we host an event called “Walk A Mile In Her Shoes.” [
 
 Our chapter organizes a Walk A Mile in Her Shoes event each year at CMU. Men who participate are sponsored for each mile they walk, and the proceeds go to the Pittsburgh Women's Shelter.
 
-#### Ultimate Ninja Tournament
-
-![Photo from Ninjas Against Domestic Violence](/assets/images/philanthropy/ninjas.jpg)
-
-During the Fall, we organize an 'Ultimate Ninja' Tournament on Campus called Ninjas Against Domestic Violence. If you aren't familiar with the game 'Ultimate Ninja', you can see it played in the video below:
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/tI79NK6qp3w" frameborder="0" allowfullscreen></iframe>
-
-We charge a few dollars to participate in the tournament, and donate all the proceeds to the Pittsburgh Women's Shelter.
 
 #### Vera Bradley Sale
 

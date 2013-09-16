@@ -165,7 +165,7 @@ a.icon-menu {
 #main-content, #page-header {
 }
 
-blockquote, blockquote + p {
+blockquote, blockquote + p, .donation-item form {
   background-color: #e9f5ec;  
   padding: 1.5em 2em;
 }
