@@ -16,13 +16,13 @@ Part of our sisterhood is our house. It's the people that make it special, but t
 
 ## Sisterhood Activities
 
-![Sisters out and about](/assets/images/sisterhood/campbell-and-emo.jpg)
+![Sisters out and about](/assets/images/sisterhood/bench-pic.jpg)
 
 Sisters can always be found spending time together, whether it be in the chapter house or on campus. Whether at home watching movies together or just being silly, or out working together on academics or service. It's these moments together that help foster such a strong relationship. 
 
 ## Bigs and Littles
 
-![Liz and Anya](/assets/images/sisterhood/liz-and-anya.jpg)
+![Liz and Anya](/assets/images/sisterhood/cece_and_celine.jpg)
 
 One of the perks of being an Alpha Chi is our process of Big and Little sister matching. Your big is your mentor. They'll shower you with affection, and be there for you come what may. It's these bonds between sisters that makes Alpha Chi Omega a home away from home.
 
