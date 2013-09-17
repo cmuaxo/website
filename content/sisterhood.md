@@ -10,7 +10,7 @@ Life at Carnegie Mellon is challenging and rewarding. By joining Alpha Chi, we m
 
 ## What Makes Us Home
 
-![Laying around](/assets/images/sisterhood/at-table.jpg)
+![In Kitchen](/assets/images/sisterhood/at-table.jpg)
 
 Part of our sisterhood is our house. It's the people that make it special, but the Alpha Chi house is a home away from home. Instead of walking past a desk attendant, you walk into a home filled with friends.
 
@@ -22,7 +22,7 @@ Sisters can always be found spending time together, whether it be in the chapter
 
 ## Bigs and Littles
 
-![Liz and Anya](/assets/images/sisterhood/cece_and_celine.jpg)
+![Cece and Celine](/assets/images/sisterhood/cece_and_celine.jpg)
 
 One of the perks of being an Alpha Chi is our process of Big and Little sister matching. Your big is your mentor. They'll shower you with affection, and be there for you come what may. It's these bonds between sisters that makes Alpha Chi Omega a home away from home.
 
